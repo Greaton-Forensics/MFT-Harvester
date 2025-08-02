@@ -1,4 +1,4 @@
-# 🧰 MFT-Forensic-Extractor
+# 🧰 MFT-Harvester
 A plug-and-play PowerShell forensic utility for extracting and parsing the NTFS Master File Table (MFT) from Windows systems.  
 Designed for incident response, triage, and digital forensic investigations.
 
